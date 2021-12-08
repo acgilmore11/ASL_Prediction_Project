@@ -14,14 +14,14 @@ and populated upon execution.
 
 
 File Descriptions:
-flask-backend.zip --> server that receives recorded videos
-AlphabetVideoUploader.zip --> Android app for uploading alphabet videos
-WordVideoUploader.zip --> Android app for uploading word videos
-hand_extractor_updated.py --> python script to crop hand from frame
-f1_score.py --> calculates f1 scores for each classification
-handshape_feature_extractor.py --> processes image and creates feature vector using cnn model
-output_to_alphabet.py --> contains dict that converts class index to letter
-cnn_accuracy_test --> driver script that generates f1 scores from alphabet videos
-main.py --> driver script that generates predicted words from input videos
+flask-backend.zip --> server that receives recorded videos  
+AlphabetVideoUploader.zip --> Android app for uploading alphabet videos  
+WordVideoUploader.zip --> Android app for uploading word videos  
+hand_extractor_updated.py --> python script to crop hand from frame  
+f1_score.py --> calculates f1 scores for each classification  
+handshape_feature_extractor.py --> processes image and creates feature vector using cnn model  
+output_to_alphabet.py --> contains dict that converts class index to letter  
+cnn_accuracy_test --> driver script that generates f1 scores from alphabet videos  
+main.py --> driver script that generates predicted words from input videos  
 
 
