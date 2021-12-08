@@ -13,7 +13,7 @@ the "Alphabet-videos" folders. "annoted_images", "Cropped_Images", and "middle_f
 and populated upon execution.
 
 
-File Descriptions:
+File Descriptions:  
 flask-backend.zip --> server that receives recorded videos  
 AlphabetVideoUploader.zip --> Android app for uploading alphabet videos  
 WordVideoUploader.zip --> Android app for uploading word videos  
