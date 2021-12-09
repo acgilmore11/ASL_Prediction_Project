@@ -17,6 +17,7 @@ File Descriptions:
 flask-backend.zip --> server that receives recorded videos  
 AlphabetVideoUploader.zip --> Android app for uploading alphabet videos  
 WordVideoUploader.zip --> Android app for uploading word videos  
+Project-Report.pdf --> project report description
 hand_extractor_updated.py --> python script to crop hand from frame  
 f1_score.py --> calculates f1 scores for each classification  
 handshape_feature_extractor.py --> processes image and creates feature vector using cnn model  
